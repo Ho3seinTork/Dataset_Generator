@@ -1,0 +1,6 @@
+requests
+Markdown
+beautifulsoup4
+google-api-python-client
+deepseek
+pandas
